@@ -23,5 +23,6 @@ public class Main {
         System.out.println("Автор - " + book3.getAuthor().getSurname() + " " + book3.getAuthor().getName());
         System.out.println("Название - " + book3.getName());
         System.out.println("Год написания - " + book3.getYear());
+
     }
 }
